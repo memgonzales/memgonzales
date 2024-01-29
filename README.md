@@ -30,6 +30,6 @@ Apart from coding, I am passionate about sharing and learning bits and bytes abo
 - Since 2017, I have been serving as a mentor for the [Asian MathSci League, Inc. (AMSLI)](https://amsliphil.com/), an organization that trains and selects Filipino students to represent the country in international math and informatics competitions. I designed the curriculum and wrote handouts for its advanced programming classes.
 - I also facilitate machine learning and data science workshops for onboarding undergraduate thesis groups and high school interns in the [Advanced Research Institute for Informatics, Networking, and Computing](https://www.dlsu.edu.ph/research/research-centers/adric/). 
 
-In 2022, I founded the [DLSU Association for Computing Machinery (ACM) Student Chapter](https://www.facebook.com/dlsu.acm) to help promote activities for fellow students interested in research and applied computing.
+In 2022, I founded the [DLSU Association for Computing Machinery (ACM) Student Chapter](https://www.facebook.com/dlsu.acm) to help promote activities for fellow students interested in research and applied computing. Prior to this, I was the president of the [Peer Tutors Society](https://www.facebook.com/pts.dlsu) of our college.
 
 I also enjoy competitive programming. In the 2022 [International Collegiate Programming Contest (ICPC)](https://icpc.global/) Asia-Manila Regionals, our team was recognized as the top Philippine team and the first to solve a problem. 
