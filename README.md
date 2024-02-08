@@ -17,7 +17,7 @@ I have had the opportunity to work with and learn from various researchers on pr
     *2023 International Conference on Asian Language Processing ([Code](https://github.com/dlsucomet/filwordnet-portal) | [Paper](https://doi.org/10.1109/IALP61005.2023.10336981))*
 - **Database Design and Data Visualization**
   - Transforming chatbot dialogues into a data mart schema for data visualization <br>
-    *23<sup>rd</sup> Philippine Computing Science Congress ([Paper](https://arxiv.org/pdf/2305.04258.pdf))*
+    *2023 Philippine Computing Science Congress ([Paper](https://arxiv.org/pdf/2305.04258.pdf))*
 - **Meta-Learning**
   - Learning the optimal hyperparameter for clustering based on dataset characteristics <br>
     *2022 IEEE Region 10 Conference ([Code](https://github.com/memgonzales/meta-learning-clustering) | [Paper](https://doi.org/10.1109/TENCON55691.2022.9978037))*
