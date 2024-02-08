@@ -8,7 +8,7 @@ I have had the opportunity to work with and learn from various researchers on pr
   - Web dashboard and bioinformatics pipeline for rice genome analysis <br>
     *GigaScience &ndash; Under Review ([Code](https://github.com/bioinfodlsu/rice-pilaf))*
   - Predicting which bacteria are attacked by "good" viruses using protein language models <br>
-    *PLOS One ([Code](https://github.com/bioinfodlsu/phage-host-prediction) | [Paper](https://doi.org/10.1371/journal.pone.0289030))*
+    *PLOS ONE ([Code](https://github.com/bioinfodlsu/phage-host-prediction) | [Paper](https://doi.org/10.1371/journal.pone.0289030))*
 - **Computer Vision**
   - Lightweight deep learning model for detecting mirrors and reflective surfaces <br>
     *2023 International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision ([Code](https://github.com/memgonzales/mirror-segmentation) | [Paper](https://doi.org/10.24132/CSRN.3301.14))*
