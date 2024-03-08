@@ -6,7 +6,7 @@ I have had the opportunity to work with and learn from various researchers on pr
 
 - **Bioinformatics**
   - Web dashboard and bioinformatics pipeline for rice genome analysis <br>
-    *GigaScience &ndash; Under Review ([Code](https://github.com/bioinfodlsu/rice-pilaf))*
+    *GigaScience ([Code](https://github.com/bioinfodlsu/rice-pilaf))*
   - Predicting which bacteria are attacked by "good" viruses using protein language models <br>
     *PLOS ONE ([Code](https://github.com/bioinfodlsu/phage-host-prediction) | [Paper](https://doi.org/10.1371/journal.pone.0289030))*
 - **Computer Vision**
