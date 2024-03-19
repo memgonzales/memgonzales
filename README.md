@@ -1,8 +1,8 @@
 ### Hello 👋 I'm Mark Edward
 
-I am a Bachelor of Science &ndash; Master of Science in Computer Science (Honors) student at [De La Salle University](https://www.dlsu.edu.ph/), Manila, Philippines. I enjoy working on challenges that bring together artificial intelligence and applied computing. 
+I am a Bachelor of Science &ndash; Master of Science in Computer Science (Honors) student at [De La Salle University](https://www.dlsu.edu.ph/), Manila, Philippines. I enjoy working on challenges that bring together AI and applied computing. 
 
-I have had the opportunity to work with and learn from various researchers on projects funded by agencies such as the Department of Science and Technology and the International Rice Research Institute. Here are some of my recent publications:
+I have had the opportunity to work with and learn from various researchers on projects funded by the Department of Science and Technology and the International Rice Research Institute. Here are some of my recent publications:
 
 - **Bioinformatics**
   - Web dashboard and bioinformatics pipeline for rice genome analysis <br>
