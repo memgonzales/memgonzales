@@ -18,9 +18,6 @@ I have had the opportunity to work on projects with the International Rice Resea
 - **Database Design and Data Visualization**
   - Transforming chatbot dialogues into a data mart schema for data visualization <br>
     *2023 Philippine Computing Science Congress ([Paper](https://arxiv.org/pdf/2305.04258.pdf))*
-- **Meta-Learning**
-  - Learning the optimal hyperparameter for clustering based on dataset characteristics <br>
-    *2022 IEEE Region 10 Conference ([Code](https://github.com/memgonzales/meta-learning-clustering) | [Paper](https://doi.org/10.1109/TENCON55691.2022.9978037))*
     
 I have also worked on software engineering projects:
 - [**Artemis**](https://github.com/memgonzales/artemis-art-app). An art-sharing Android app where the community of users can post, bookmark, and provide feedback on members' works, as well as share these artworks on their Facebook accounts
