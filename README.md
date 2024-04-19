@@ -30,4 +30,4 @@ Apart from coding, I am passionate about sharing and learning bits and bytes abo
 
 In 2022, I founded the [DLSU Association for Computing Machinery (ACM) Student Chapter](https://www.facebook.com/dlsu.acm) to promote activities for fellow students interested in research and applied computing.
 
-I also enjoy competitive programming. In the 2022 [International Collegiate Programming Contest (ICPC)](https://icpc.global/) Asia-Manila Regionals, our team was recognized as the top Philippine team and the first to solve a problem. 
+I also enjoy competitive programming. In the 2022 [International Collegiate Programming Contest (ICPC)](https://icpc.global/) Asia-Manila Regionals, our team ranked fifth and was recognized as the top Philippine team and the first to solve a problem.
