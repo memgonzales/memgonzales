@@ -2,7 +2,7 @@
 
 I am a Bachelor of Science &ndash; Master of Science in Computer Science (Honors) student at [De La Salle University](https://www.dlsu.edu.ph/), Manila, Philippines. I enjoy working on challenges that bring together AI and applied computing. 
 
-I have had the opportunity to work on projects funded by the International Rice Research Institute and the Department of Science and Technology. In 2023, I was conferred the 2<sup>nd</sup> Prize in the [Magsaysay Future Engineers/Technologists Award](https://www.dlsu.edu.ph/ccs-student-bagged-2nd-prize-in-2023-mfet-award/) by the National Academy of Science and Technology of the Philippines. Here are some of my recent publications:
+I have had the opportunity to work on projects funded by the International Rice Research Institute and the Department of Science and Technology. In 2023, I was conferred the second prize in the [Magsaysay Future Engineers/Technologists Award](https://www.dlsu.edu.ph/ccs-student-bagged-2nd-prize-in-2023-mfet-award/) by the National Academy of Science and Technology of the Philippines. Here are some of my recent publications:
 
 - **Bioinformatics**
   - Web dashboard and bioinformatics pipeline for rice genome analysis <br>
