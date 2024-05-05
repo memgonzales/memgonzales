@@ -19,7 +19,7 @@ I have had the opportunity to work on projects with the International Rice Resea
   - Transforming chatbot dialogues into a data mart schema for data visualization <br>
     *2023 Philippine Computing Science Congress ([Paper](https://arxiv.org/pdf/2305.04258.pdf))*
 - 💻 **Programming Language Design and Implementation**
-  - Programming language for 2D drawing and animation <br>
+  - Novice-friendly programming language for 2D drawing and animation <br>
     *2024 Philippine Computing Science Congress ([Code](https://github.com/memgonzales/aniframe-language) | [Paper](https://arxiv.org/pdf/2404.10250))*
     
 I have also worked on software engineering projects:
