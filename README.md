@@ -15,12 +15,12 @@ I have had the opportunity to work on projects with the International Rice Resea
 - 🗣️ **Natural Language Processing**
   - Tracking the evolution of Filipino word meanings using sentence embeddings and network science <br>
     *2023 International Conference on Asian Language Processing ([Code](https://github.com/dlsucomet/filwordnet-portal) | [Paper](https://doi.org/10.1109/IALP61005.2023.10336981))*
+- 💻 **Programming Language Design and Implementation**
+  - Novice-friendly programming language for 2D drawing and animation <br>
+    *2024 Philippine Computing Science Congress ([Code](https://github.com/memgonzales/aniframe-language) | [Paper](https://arxiv.org/pdf/2404.10250))* &ndash; **Awarded Best Student Paper**
 - 🛢️ **Database Design and Data Visualization**
   - Transforming chatbot dialogues into a data mart schema for data visualization <br>
     *2023 Philippine Computing Science Congress ([Paper](https://arxiv.org/pdf/2305.04258.pdf))*
-- 💻 **Programming Language Design and Implementation**
-  - Novice-friendly programming language for 2D drawing and animation <br>
-    *2024 Philippine Computing Science Congress ([Code](https://github.com/memgonzales/aniframe-language) | [Paper](https://arxiv.org/pdf/2404.10250))*
     
 I have also worked on software engineering projects:
 - 🎨 [**Artemis**](https://github.com/memgonzales/artemis-art-app). An art-sharing Android app where the community of users can post, bookmark, and provide feedback on members' works, as well as share these artworks on their Facebook accounts
