@@ -28,6 +28,6 @@ I have also worked on software engineering projects:
 
 Apart from coding, I am passionate about sharing and learning bits and bytes about tech. Since 2017, I have been a mentor for the [Asian MathSci League, Inc. (AMSLI)](https://amsliphil.com/), an organization that trains and selects representatives for international math and informatics competitions. I designed the curriculum and wrote handouts for its advanced programming classes.
 
-In 2022, I founded the [DLSU Association for Computing Machinery (ACM) Student Chapter](https://www.facebook.com/dlsu.acm) to promote activities for fellow students interested in research and applied computing.
+Since 2021, I have been writing questions for the [International Bebras Challenge on Informatics and Computational Thinking](https://www.bebras.org/), an annual contest joined by over 80 participating countries. My 2023 proposal was given the Best Task award, and my 2022 and 2024 proposals were also nominated for this recognition.
 
 I also enjoy competitive programming. In the 2022 [International Collegiate Programming Contest (ICPC)](https://icpc.global/) Asia-Manila Regionals, our team ranked fifth and was recognized as the top Philippine team and the first to solve a problem.
