@@ -2,7 +2,7 @@
 
 I am a Bachelor of Science &ndash; Master of Science in Computer Science (Honors) student at [De La Salle University](https://www.dlsu.edu.ph/), Manila, Philippines. I enjoy working on challenges that bring together AI and applied computing. 
 
-I have had the opportunity to work on projects with the International Rice Research Institute and the Department of Science and Technology. In 2023, I was conferred the second prize in the [Magsaysay Future Engineers/Technologists Award](https://www.dlsu.edu.ph/ccs-student-bagged-2nd-prize-in-2023-mfet-award/) by the National Academy of Science and Technology of the Philippines. Here are some of my recent [publications](https://scholar.google.com/citations?user=YSwwCpAAAAAJ&hl=en):
+I have had the opportunity to work on projects with the Asian Development Bank, International Rice Research Institute, and the Department of Science and Technology. In 2023, I was conferred the second prize in the [Magsaysay Future Engineers/Technologists Award](https://www.dlsu.edu.ph/ccs-student-bagged-2nd-prize-in-2023-mfet-award/) by the National Academy of Science and Technology of the Philippines. Here are some of my recent [publications](https://scholar.google.com/citations?user=YSwwCpAAAAAJ&hl=en):
 
 - 🧬 **Bioinformatics**
   - Web dashboard and bioinformatics pipeline for rice genome analysis <br>
@@ -10,6 +10,8 @@ I have had the opportunity to work on projects with the International Rice Resea
   - Predicting which bacteria are attacked by "good" viruses using protein language models <br>
     *PLOS ONE ([Code](https://github.com/bioinfodlsu/phage-host-prediction) | [Paper](https://doi.org/10.1371/journal.pone.0289030))*
 - 👁️ **Computer Vision**
+  - Lightweight deep learning model for detecting camouflaged objects <br>
+    *2024 IEEE 48th Annual Computers, Software, and Applications Conference ([Paper](https://doi.org/10.1109/COMPSAC61105.2024.00034))*
   - Lightweight deep learning model for detecting mirrors and reflective surfaces <br>
     *2023 International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision ([Code](https://github.com/memgonzales/mirror-segmentation) | [Paper](https://doi.org/10.24132/CSRN.3301.14))*
 - 🗣️ **Natural Language Processing**
