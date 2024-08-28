@@ -11,7 +11,7 @@ I have had the opportunity to work on projects with the Asian Development Bank a
     *PLOS ONE ([Code](https://github.com/bioinfodlsu/phage-host-prediction) | [Paper](https://doi.org/10.1371/journal.pone.0289030))*
 - 👁️ **Computer Vision**
   - Lightweight deep learning model for detecting camouflaged objects <br>
-    *2024 IEEE 48th Annual Computers, Software, and Applications Conference ([Paper](https://doi.org/10.1109/COMPSAC61105.2024.00034))*
+    *2024 IEEE 48<sup>th</sup> Annual Computers, Software, and Applications Conference ([Paper](https://doi.org/10.1109/COMPSAC61105.2024.00034))*
   - Lightweight deep learning model for detecting mirrors and reflective surfaces <br>
     *2023 International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision ([Code](https://github.com/memgonzales/mirror-segmentation) | [Paper](https://doi.org/10.24132/CSRN.3301.14))*
 - 🗣️ **Natural Language Processing**
