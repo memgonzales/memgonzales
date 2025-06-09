@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Mark Edward
 
-I obtained my Bachelor of Science – Master of Science in Computer Science (Honors) degree from [De La Salle University](https://www.dlsu.edu.ph/), Manila. I enjoy working on challenges that bridge AI, research, and software engineering.
+I obtained my Bachelor of Science – Master of Science in Computer Science (Honors) degree from [De La Salle University](https://www.dlsu.edu.ph/), Manila. I enjoy working on challenges that bridge AI, research, and big data.
 
 I have worked on projects with the Asian Development Bank (ADB), International Rice Research Institute (IRRI), and Singapore's Agency for Science, Technology and Research (A\*STAR). My research engagement at A*STAR was supported by the [Singapore International Pre-Graduate Award](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga).
 
