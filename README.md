@@ -1,10 +1,12 @@
 ### Hello 👋 I'm Mark Edward
 
-I obtained my Bachelor of Science – Master of Science in Computer Science (Honors) degree from [De La Salle University](https://www.dlsu.edu.ph/), Manila. I enjoy working on challenges that bring together AI and big data.
+I am a research officer at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/), Singapore. My work sits at the intersection of computer science and biology, with a focus on developing novel AI tools for processing and analyzing large (gigapixel-scale), multi-channel microscope images.
 
-I have worked on projects with the Asian Development Bank (ADB), International Rice Research Institute (IRRI), and Singapore's Agency for Science, Technology and Research (A\*STAR). My research engagement at A*STAR was supported by the [Singapore International Pre-Graduate Award](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga).
+I was a recipient of the Br. Andrew Gonzalez FSC Award for Outstanding Research (2025) from De La Salle University, Singapore International Pre-Graduate Award (2024) from A*STAR, and Magsaysay Future Engineers/Technologists Award – Second Prize (2023) from the National Academy of Science and Technology, Philippines.
 
-In 2023, I was conferred the second prize in the [Magsaysay Future Engineers/Technologists Award](https://www.dlsu.edu.ph/ccs-student-bagged-2nd-prize-in-2023-mfet-award/) by the National Academy of Science and Technology, Philippines. Here are some of my recent [publications](https://scholar.google.com/citations?user=YSwwCpAAAAAJ&hl=en):
+Prior to joining A*STAR, I served as a data science consultant at the [Asian Development Bank](https://www.adb.org/). I obtained my master's degree in computer science from De La Salle University, Manila, under its integrated bachelor's-master's degree honors program.
+
+Here are some of my recent [publications](https://scholar.google.com/citations?user=YSwwCpAAAAAJ&hl=en):
 
 - 🧬 **Bioinformatics**
   - Using AI to explore alternatives to conventional antibiotics and combat antimicrobial resistance <br>
@@ -27,8 +29,4 @@ Here are some of my software engineering projects:
 - 🎨 [**Artemis**](https://github.com/memgonzales/artemis-art-app). Art-sharing Android app where the community of users can post, bookmark, and provide feedback on members' works, as well as share these artworks on their Facebook accounts. Written in Kotlin and uses Firebase
 - ⛽ [**Powerzone Inventory**](https://github.com/memgonzales/powerzone-inventory). Web-based inventory, transaction, and delivery management system for a fuel company in Bicol, Philippines. Built with MongoDB, Express.js, and Node.js and includes a CI/CD pipeline
 
-I also enjoy competitive programming. In the 2022 [International Collegiate Programming Contest (ICPC)](https://icpc.global/) Asia-Manila Regionals, our team ranked fifth overall and was recognized as the top Philippine team and the first to solve a problem.
-
-Beyond coding, my passion lies in strengthening tech education. Since 2017, I have been serving as a mentor for the [Asian MathSci League, Inc. (AMSLI)](https://amsliphil.com/), an organization that trains and selects representatives for international math and informatics competitions. I designed the curriculum and wrote handouts for its [advanced programming classes](https://github.com/memgonzales/aiep-python-scratch). 
-
-I also contribute questions to the [International Bebras Challenge on Informatics and Computational Thinking](https://www.bebras.org/), an annual contest joined by over 4 million students from 70 countries. My 2023 problem proposal was awarded Best Task, and my 2022 and 2024 proposals were nominated for this recognition.
+Beyond my professional interests, I am committed to strengthening tech education. I contribute questions to the [International Bebras Challenge on Informatics and Computational Thinking](https://www.bebras.org/), an annual contest joined by over 4 million students from 70 countries. My 2023 problem proposal was awarded Best Task, and my 2022 and 2024 proposals were nominated for this recognition.
