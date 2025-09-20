@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Mark Edward
 
-I am a research officer at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/), Singapore. My work sits at the intersection of computer science and biology, with a focus on developing novel AI tools for processing and analyzing large (gigapixel-scale), multi-channel microscope images.
+As a research officer at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/), Singapore, my work sits at the intersection of computer science and biology, with a focus on developing novel AI tools for processing and analyzing large (gigapixel-scale), multi-channel microscope images.
 
 I was a recipient of the Br. Andrew Gonzalez FSC Award for Outstanding Research (2025) from De La Salle University, Singapore International Pre-Graduate Award (2024) from A*STAR, and Magsaysay Future Engineers/Technologists Award – Second Prize (2023) from the National Academy of Science and Technology, Philippines.
 
