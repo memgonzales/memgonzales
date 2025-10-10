@@ -4,7 +4,7 @@ As a research officer at the [Agency for Science, Technology and Research (A*STA
 
 I was a recipient of the Br. Andrew Gonzalez FSC Award for Outstanding Research (2025) from De La Salle University, Singapore International Pre-Graduate Award (2024) from A*STAR, and Magsaysay Future Engineers/Technologists Award – Second Prize (2023) from the National Academy of Science and Technology, Philippines. I have also served as a reviewer for the _Computational and Structural Biotechnology Journal_.
 
-Prior to joining A*STAR, I served as a data science consultant at the [Asian Development Bank's](https://www.adb.org/) Economic Research and Development Impact Department. I obtained my master's degree in computer science from De La Salle University, Manila, under its integrated bachelor's-master's degree honors program.
+Prior to joining A*STAR, I was a data science consultant at the [Asian Development Bank's](https://www.adb.org/) Economic Research and Development Impact Department. I obtained my master's degree in computer science from De La Salle University, Manila, under its integrated bachelor's-master's degree honors program.
 
 Here are some of my recent [publications](https://scholar.google.com/citations?user=YSwwCpAAAAAJ&hl=en):
 
