@@ -2,7 +2,7 @@
 
 As a research officer at the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/), Singapore, my work sits at the intersection of computer science and biology, with a focus on developing novel AI tools for analyzing large (gigapixel-scale), multi-channel microscopy images.
 
-I was a recipient of the Singapore International Pre-Graduate Award (2024) from A*STAR. I have also served as a reviewer for the _Computational and Structural Biotechnology Journal_ and _IET Image Processing_.
+I was a recipient of the Singapore International Pre-Graduate Award (2024) from A*STAR. I have also served as a reviewer for the _Computational and Structural Biotechnology Journal_ and for _IET Image Processing_.
 
 Prior to joining A*STAR, I was a data science consultant at the [Asian Development Bank's](https://www.adb.org/) Economic Research and Development Impact Department. I obtained my master's degree in computer science from De La Salle University, Manila, under its integrated bachelor's-master's degree honors program.
 
