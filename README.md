@@ -13,13 +13,13 @@ Here are some of my recent [publications](https://scholar.google.com/citations?u
     Under review in _Nature_ ([Code](https://github.com/mahmoodlab/KRONOS) | [Preprint](https://arxiv.org/abs/2506.03373))
 - 🧬 **Bioinformatics**
   - Using AI to explore alternatives to conventional antibiotics and combat antimicrobial resistance <br>
-    *Bioinformatics ([Code](https://github.com/bioinfodlsu/PHIStruct) | [Paper](https://doi.org/10.1093/bioinformatics/btaf016))* and *PLOS ONE ([Code](https://github.com/bioinfodlsu/phage-host-prediction) | [Paper](https://doi.org/10.1371/journal.pone.0289030))*
+    *Bioinformatics* ([Code](https://github.com/bioinfodlsu/PHIStruct) | [Paper](https://doi.org/10.1093/bioinformatics/btaf016)) and *PLOS ONE* ([Code](https://github.com/bioinfodlsu/phage-host-prediction) | [Paper](https://doi.org/10.1371/journal.pone.0289030))
 - 🗣️ **Natural Language Processing**
   - Tracking the evolution of Filipino word meanings using sentence embeddings and network science <br>
-    *2023 International Conference on Asian Language Processing ([Code](https://github.com/dlsucomet/filwordnet-portal) | [Paper](https://doi.org/10.1109/IALP61005.2023.10336981))*
+    *2023 International Conference on Asian Language Processing* ([Code](https://github.com/dlsucomet/filwordnet-portal) | [Paper](https://doi.org/10.1109/IALP61005.2023.10336981))
 - 💻 **Programming Language Design and Implementation**
   - Novice-friendly programming language for 2D drawing and animation <br>
-    *2024 Philippine Computing Science Congress ([Code](https://github.com/memgonzales/aniframe-language) | [Paper](https://arxiv.org/pdf/2404.10250))* &ndash; **Awarded Best Student Paper**
+    *2024 Philippine Computing Science Congress* ([Code](https://github.com/memgonzales/aniframe-language) | [Paper](https://arxiv.org/pdf/2404.10250)) &ndash; **Awarded Best Student Paper**
     
 I also enjoy building with different tech stacks:
 - 🌾 [**RicePilaf**](https://github.com/bioinfodlsu/rice-pilaf). Web dashboard and novel bioinformatics pipeline for analyzing rice genomes. Published in [*GigaScience*](https://doi.org/10.1093/gigascience/giae013) and developed with the International Rice Research Institute (IRRI). Written in Python and R, uses Dash and Flask as framework, and containerized via Docker
