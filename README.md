@@ -10,7 +10,7 @@ Here are some of my recent [publications](https://scholar.google.com/citations?u
 
 - 👁️ **Computer Vision**
   - Foundation model for multi-channel microscopy images <br>
-    Under review at _Nature_ ([Code](https://github.com/mahmoodlab/KRONOS) | [Preprint](https://arxiv.org/abs/2506.03373))
+    Under review in _Nature_ ([Code](https://github.com/mahmoodlab/KRONOS) | [Preprint](https://arxiv.org/abs/2506.03373))
 - 🧬 **Bioinformatics**
   - Using AI to explore alternatives to conventional antibiotics and combat antimicrobial resistance <br>
     *Bioinformatics ([Code](https://github.com/bioinfodlsu/PHIStruct) | [Paper](https://doi.org/10.1093/bioinformatics/btaf016))* and *PLOS ONE ([Code](https://github.com/bioinfodlsu/phage-host-prediction) | [Paper](https://doi.org/10.1371/journal.pone.0289030))*
